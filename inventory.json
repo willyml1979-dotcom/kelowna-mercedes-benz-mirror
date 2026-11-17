@@ -1,340 +1,65 @@
 {
   "dealership": "Kelowna Mercedes Benz",
-  "generated_at": "2026-10-26T04:40:12",
-  "vehicle_count": 74,
+  "generated_at": "2026-11-16T23:01:49",
+  "vehicle_count": 68,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2025 Mercedes-Benz EQB 300 4MATIC SUVin Kelowna",
-      "vin": "W1N9M0KB4SN144983",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e4a6f8ad6dc3.html",
-      "condition": "new",
-      "price": 64999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2025 Mercedes-Benz EQB 300 4MATIC SUVin Kelowna",
-      "vin": "W1N9M0KB7SN146498",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/d57156b6900c.html",
-      "condition": "new",
-      "price": 66999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
-      "vin": "W1K5J4HB5TN607573",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/79381a0d03c8.html",
-      "condition": "new",
-      "price": 66750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
-      "vin": "W1K5J4HB2TN607546",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/c604f8b62dd7.html",
-      "condition": "new",
-      "price": 63750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
-      "vin": "W1K5J4HB6TN608442",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/cef40cfe1a7d.html",
-      "condition": "new",
-      "price": 63750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB4TJ872429",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/eb02c36801c6.html",
-      "condition": "new",
-      "price": 65050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB4TJ871278",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/b06f2bf11857.html",
-      "condition": "new",
-      "price": 63750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB4TJ871328",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ff700a59c6fe.html",
-      "condition": "new",
-      "price": 64350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB3TJ889111",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/fe8a18cea856.html",
-      "condition": "new",
-      "price": 61550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB1TJ889592",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/0a870960d90b.html",
-      "condition": "new",
-      "price": 65450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB9TJ901410",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/91f29f3b3d76.html",
-      "condition": "new",
-      "price": 63350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB1TJ890161",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/21e0e0fb502f.html",
-      "condition": "new",
-      "price": 63750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB6TJ887532",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/08e7e2b19b73.html",
-      "condition": "new",
-      "price": 65750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB2TJ891495",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/fdeb9e897d50.html",
-      "condition": "new",
-      "price": 64750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HBXTJ900024",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ea2a7c4de9ff.html",
-      "condition": "new",
-      "price": 63350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB4TJ890719",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/2bcf5be00698.html",
-      "condition": "new",
-      "price": 64350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB2TJ891545",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/614f7e76473c.html",
-      "condition": "new",
-      "price": 62950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB7TJ889340",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/8b008686c19c.html",
-      "condition": "new",
-      "price": 64550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB0TJ889292",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e213b864487b.html",
-      "condition": "new",
-      "price": 62750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB0TW480165",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/4bd7ce803c40.html",
-      "condition": "new",
-      "price": 69150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB2TW491507",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/de1c47a6416c.html",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB1TW487304",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/8d31ab86e0da.html",
-      "condition": "new",
-      "price": 67450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB4TW486034",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ca6271d62cb4.html",
-      "condition": "new",
-      "price": 68350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HBXTW479105",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/4974659d487d.html",
-      "condition": "new",
-      "price": 69150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB7TW492846",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/dc0bb1d182eb.html",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HBXTW486037",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/1194386a4132.html",
-      "condition": "new",
-      "price": 63850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB5TW480372",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/915f5cb46fb0.html",
-      "condition": "new",
-      "price": 69050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB1TW487285",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/101f10c51911.html",
-      "condition": "new",
-      "price": 63850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1NKM4HB8TF566850",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/a3446e82cfcf.html",
-      "condition": "new",
-      "price": 72700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1NKM4HB0TF555969",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/58a47d9ba071.html",
-      "condition": "new",
-      "price": 72300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1NKM4HB0TF576773",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/c65517af800e.html",
-      "condition": "new",
-      "price": 73200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Crew Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
-      "vin": "W1Y4KBHY4TP923445",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/d3ff89a655c5.html",
-      "condition": "new",
-      "price": 74475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
-      "vin": "W1Y4KBHY3TP922044",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e7d32e91b388.html",
-      "condition": "new",
-      "price": 74349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
-      "vin": "W1Y4KBHY1TP924391",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/eba12d38af9b.html",
-      "condition": "new",
-      "price": 74826.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz CLA 250+ Electric RWDin Kelowna",
-      "vin": "W1KFJ1DB8VJ079384",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/6c8cde38f32d.html",
-      "condition": "new",
-      "price": 67150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1NKM4HB0VF660675",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/5125f6111e46.html",
-      "condition": "new",
-      "price": 74250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 BMW Z4 ",
-      "vin": "5UMDU93528LM08653",
+      "name": "BMW Z4 2008 for salein Kelowna",
+      "vin": "4USBU53508LX85626",
       "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/133bdccc755c.html",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti Q60 2015 for salein Kelowna",
+      "vin": "JN1CV6EL3FM890728",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/f7c4c16d7452.html",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q7 2019 for salein Kelowna",
+      "vin": "WA1WAAF79KD048099",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/116c6c02781a.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2008 BMW Z4 3.0siin Kelowna",
+      "vin": "4USBU53508LX85626",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/3e5a1538cb99.html",
       "year": 2008,
       "make": "BMW",
-      "model": "Z4",
+      "model": "Z4 3.0siin Kelowna",
       "condition": "used",
-      "price": 53995.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Lincoln MKX Reservein Kelowna",
-      "vin": "2LMTJ8LP3GBL64276",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/db1179ba6ce3.html",
-      "year": 2016,
-      "make": "Lincoln",
-      "model": "MKX Reservein Kelowna",
+      "name": "2013 Mercedes-Benz SL 63 AMGin Kelowna",
+      "vin": "WDDJK7EA2DF005458",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/09f798c4d2ed.html",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "model": "SL 63 AMGin Kelowna",
       "condition": "used",
-      "price": 23900.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Lincoln MKX ",
-      "vin": "2LMTJ8LP3GBL64276",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7dc197872e16.html",
-      "year": 2016,
-      "make": "Lincoln",
-      "model": "MKX",
+      "name": "2015 Infiniti Q60 Sportin Kelowna",
+      "vin": "JN1CV6EL3FM890728",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/1f4dd7424dc2.html",
+      "year": 2015,
+      "make": "Infiniti",
+      "model": "Q60 Sportin Kelowna",
       "condition": "used",
-      "price": 23900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Audi A7 ",
-      "vin": "WAU32AFC5HN091311",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/46f82e50af2f.html",
-      "year": 2017,
-      "make": "Audi",
-      "model": "A7",
-      "condition": "used",
-      "price": 26995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -345,40 +70,29 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 25995.0,
+      "price": 23800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 GMC Yukon ",
-      "vin": "1GKS2CKJ7JR258396",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/0aac9bcca3b1.html",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "used",
-      "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mercedes-Benz AMG GLC 43 4MATIC SUVin Kelowna",
-      "vin": "WDC0G6EB1JV026842",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/531e4af4e0c3.html",
-      "year": 2018,
-      "make": "Mercedes-Benz",
-      "model": "AMG GLC 43 4MATIC SUVin Kelowna",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Audi A6 ",
-      "vin": "WAUM2AF21KN026586",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/dde765b03cd1.html",
+      "name": "2019 Audi Q7 Technikin Kelowna",
+      "vin": "WA1WAAF79KD048099",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7ed7a9b8af07.html",
       "year": 2019,
       "make": "Audi",
-      "model": "A6",
+      "model": "Q7",
       "condition": "used",
-      "price": 31900.0,
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Cadillac XT5 Platinumin Kelowna",
+      "vin": "1GYKNGRS7KZ185678",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/1546c53c1b7f.html",
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XT5",
+      "condition": "used",
+      "price": 24900.0,
       "price_currency": "CAD"
     },
     {
@@ -400,7 +114,7 @@
       "make": "Mercedes-Benz",
       "model": "AMG C 43 4MATIC Sedanin Kelowna",
       "condition": "used",
-      "price": 40900.0,
+      "price": 38900.0,
       "price_currency": "CAD"
     },
     {
@@ -426,17 +140,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mercedes-Benz AMG GLE 53 4MATIC+ SUVin Kelowna",
-      "vin": "4JGFB6BB6LA144085",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/cad822c5dbdf.html",
-      "year": 2020,
-      "make": "Mercedes-Benz",
-      "model": "AMG GLE 53 4MATIC+ SUVin Kelowna",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Mercedes-Benz GLS 450 4MATIC SUVin Kelowna",
       "vin": "4JGFF5KE0LA100673",
       "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/617f1b6b8b19.html",
@@ -444,7 +147,7 @@
       "make": "Mercedes-Benz",
       "model": "GLS",
       "condition": "used",
-      "price": 55900.0,
+      "price": 54900.0,
       "price_currency": "CAD"
     },
     {
@@ -459,14 +162,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler 300 ",
-      "vin": "2C3CCAGG5NH150948",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/ca1d65a9c0c5.html",
+      "name": "2022 Mercedes-Benz C 300 4MATIC Coupein Kelowna",
+      "vin": "W1KWJ8EB7NG111391",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/f2cc5fc989b8.html",
       "year": 2022,
-      "make": "Chrysler",
-      "model": "300",
+      "make": "Mercedes-Benz",
+      "model": "C 300 4MATIC Coupein Kelowna",
       "condition": "used",
-      "price": 29995.0,
+      "price": 41400.0,
       "price_currency": "CAD"
     },
     {
@@ -477,7 +180,18 @@
       "make": "Mercedes-Benz",
       "model": "AMG GLB 35 4MATIC SUVin Kelowna",
       "condition": "used",
-      "price": 43300.0,
+      "price": 41900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1N0G8EB4NV393069",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/1fd98c50e2cc.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "used",
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -488,7 +202,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 35900.0,
+      "price": 34900.0,
       "price_currency": "CAD"
     },
     {
@@ -499,18 +213,7 @@
       "make": "Mercedes-Benz",
       "model": "AMG GLC 43 4MATIC Coupein Kelowna",
       "condition": "used",
-      "price": 49900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mercedes-Benz AMG GLC 43 4MATIC SUVin Kelowna",
-      "vin": "W1N0G6EB3NV391513",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/4dfa2068f8b0.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "AMG GLC 43 4MATIC SUVin Kelowna",
-      "condition": "used",
-      "price": 51995.0,
+      "price": 49700.0,
       "price_currency": "CAD"
     },
     {
@@ -521,7 +224,7 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 57995.0,
+      "price": 55900.0,
       "price_currency": "CAD"
     },
     {
@@ -536,36 +239,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mercedes-Benz GLE 350 4MATIC SUVin Kelowna",
-      "vin": "4JGFB4KB5PA961090",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/0c979caf71ad.html",
+      "name": "2023 Mercedes-Benz GLS 450 4MATIC SUVin Kelowna",
+      "vin": "4JGFF5KE1PA963519",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/fa875bcc99f3.html",
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLE",
+      "model": "GLS",
       "condition": "used",
-      "price": 58300.0,
+      "price": 78700.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mercedes-Benz GLE 450 4MATIC SUVin Kelowna",
-      "vin": "4JGFB5KBXPA839203",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/a26f90bc230a.html",
-      "year": 2023,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "used",
-      "price": 74995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMEE2BP0RLA10306",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/70e060a16fce.html",
+      "name": "2024 Jeep Wrangler 4xe Saharain Kelowna",
+      "vin": "1C4RJXP60RW116784",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/4ce143d05268.html",
       "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
+      "make": "Jeep",
+      "model": "Wrangler",
       "condition": "used",
-      "price": 64400.0,
+      "price": 45200.0,
       "price_currency": "CAD"
     },
     {
@@ -580,47 +272,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1NKM4HB7RF175343",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7102d684006f.html",
-      "year": 2024,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "used",
-      "price": 52400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mercedes-Benz AMG GLE 53 4MATIC+ Coupein Kelowna",
-      "vin": "4JGFD6BB7RB023126",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/39ee273fffec.html",
-      "year": 2024,
-      "make": "Mercedes-Benz",
-      "model": "AMG GLE 53 4MATIC+ Coupein Kelowna",
-      "condition": "used",
-      "price": 99900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Tacoma ",
-      "vin": "3TYLB5JN5RT059171",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7d8941e53611.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 51900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4M4HB4SW432649",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7aef1bec2054.html",
+      "name": "2025 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
+      "vin": "W1K5J4HB5SN529696",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/f53445840a50.html",
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLB",
+      "model": "CLA",
       "condition": "used",
-      "price": 50900.0,
+      "price": 45500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Mercedes-Benz EQB 300 4MATIC SUVin Kelowna",
+      "vin": "W1N9M0KB4SN144983",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e4a6f8ad6dc3.html",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "EQB",
+      "condition": "new",
+      "price": 64999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Mercedes-Benz EQB 300 4MATIC SUVin Kelowna",
+      "vin": "W1N9M0KB7SN146498",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/d57156b6900c.html",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "EQB",
+      "condition": "new",
+      "price": 66999.0,
       "price_currency": "CAD"
     },
     {
@@ -631,7 +312,7 @@
       "make": "Mercedes-Benz",
       "model": "AMG GLC 43 4MATIC+ SUVin Kelowna",
       "condition": "used",
-      "price": 94300.0,
+      "price": 89300.0,
       "price_currency": "CAD"
     },
     {
@@ -653,7 +334,7 @@
       "make": "Mercedes-Benz",
       "model": "AMG GLE 53 4MATIC+ SUVin Kelowna",
       "condition": "used",
-      "price": 119995.0,
+      "price": 118200.0,
       "price_currency": "CAD"
     },
     {
@@ -664,7 +345,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 54200.0,
+      "price": 49900.0,
       "price_currency": "CAD"
     },
     {
@@ -675,29 +356,359 @@
       "make": "Mercedes-Benz",
       "model": "C 300 4MATIC Sedanin Kelowna",
       "condition": "used",
-      "price": 59995.0,
+      "price": 58900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
-      "vin": "W1N4N4HB9TJ765585",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/c1ea1be3cf60.html",
+      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
+      "vin": "W1K5J4HB5TN607573",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/79381a0d03c8.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 66750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
+      "vin": "W1K5J4HB2TN607546",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/c604f8b62dd7.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 63750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz CLA 250 4MATIC Coupein Kelowna",
+      "vin": "W1K5J4HB6TN608442",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/cef40cfe1a7d.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 63750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB4TJ872429",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/eb02c36801c6.html",
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used",
-      "price": 41900.0,
+      "condition": "new",
+      "price": 65050.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mercedes-Benz GLS 450 4MATIC SUVin Kelowna",
-      "vin": "4JGFF5KE4TB514470",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/de7ec843bca5.html",
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB4TJ871278",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/b06f2bf11857.html",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLS",
-      "condition": "used",
-      "price": 94800.0,
+      "model": "GLA",
+      "condition": "new",
+      "price": 63750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB4TJ871328",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ff700a59c6fe.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB3TJ889111",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/fe8a18cea856.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 61550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB1TJ889592",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/0a870960d90b.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 65450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB9TJ901410",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/91f29f3b3d76.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 63350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB1TJ890161",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/21e0e0fb502f.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 63750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB6TJ887532",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/08e7e2b19b73.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 65750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB2TJ891495",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/fdeb9e897d50.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HBXTJ900024",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ea2a7c4de9ff.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 63350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB4TJ890719",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/2bcf5be00698.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB2TJ891545",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/614f7e76473c.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB7TJ889340",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/8b008686c19c.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4N4HB0TJ889292",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e213b864487b.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB0TW480165",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/4bd7ce803c40.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 69150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB2TW491507",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/de1c47a6416c.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 68450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB1TW487304",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/8d31ab86e0da.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 67450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB4TW486034",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/ca6271d62cb4.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 68350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HBXTW479105",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/4974659d487d.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 69150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB7TW492846",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/dc0bb1d182eb.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 68450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HBXTW486037",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/1194386a4132.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 63850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB5TW480372",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/915f5cb46fb0.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 69050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Kelowna",
+      "vin": "W1N4M4HB1TW487285",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/101f10c51911.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 63850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1NKM4HB8TF566850",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/a3446e82cfcf.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 72700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1NKM4HB0TF555969",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/58a47d9ba071.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 72300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1NKM4HB0TF576773",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/c65517af800e.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 73200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Crew Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
+      "vin": "W1Y4KBHY4TP923445",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/d3ff89a655c5.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 74475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
+      "vin": "W1Y4KBHY3TP922044",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/e7d32e91b388.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 74349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
+      "vin": "W1Y4KBHY1TP924391",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/eba12d38af9b.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 74826.0,
       "price_currency": "CAD"
     },
     {
@@ -709,6 +720,28 @@
       "model": "Golf R",
       "condition": "used",
       "price": 53900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz CLA 250+ Electric RWDin Kelowna",
+      "vin": "W1KFJ1DB8VJ079384",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/6c8cde38f32d.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 67150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1NKM4HB0VF660675",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/new/5125f6111e46.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 74250.0,
       "price_currency": "CAD"
     }
   ]
