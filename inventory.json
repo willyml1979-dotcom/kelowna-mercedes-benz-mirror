@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Mercedes Benz",
-  "generated_at": "2026-11-16T23:15:05",
-  "vehicle_count": 68,
+  "generated_at": "2026-11-17T20:31:43",
+  "vehicle_count": 67,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,19 +14,54 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Infiniti Q60 2015 for salein Kelowna",
-      "vin": "JN1CV6EL3FM890728",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/f7c4c16d7452.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Audi Q7 2019 for salein Kelowna",
       "vin": "WA1WAAF79KD048099",
       "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/116c6c02781a.html",
       "condition": "used",
       "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Cadillac XT5 2019 for salein Kelowna",
+      "vin": "1GYKNGRS7KZ185678",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/12f135b67493.html",
+      "condition": "used",
+      "price": 24900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2023 for salein Kelowna",
+      "vin": "1FMEE5DP1PLB09227",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/a255eaac07ab.html",
+      "condition": "used",
+      "price": 57700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2024 for salein Kelowna",
+      "vin": "1C4RJXP60RW116784",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/9b9674008ddc.html",
+      "condition": "used",
+      "price": 45200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf R 2026 for salein Kelowna",
+      "vin": "WVWKF7CD4TW167669",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/c6589ea46a29.html",
+      "condition": "used",
+      "price": 51800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2008 BMW Z4 Coupein Kelowna",
+      "vin": "5UMDU93528LM08653",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/8aa32850e909.html",
+      "year": 2008,
+      "make": "BMW",
+      "model": "Z4 Coupein Kelowna",
+      "condition": "used",
+      "price": 47800.0,
       "price_currency": "CAD"
     },
     {
@@ -49,17 +84,6 @@
       "model": "SL 63 AMGin Kelowna",
       "condition": "used",
       "price": 56995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Infiniti Q60 Sportin Kelowna",
-      "vin": "JN1CV6EL3FM890728",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/1f4dd7424dc2.html",
-      "year": 2015,
-      "make": "Infiniti",
-      "model": "Q60 Sportin Kelowna",
-      "condition": "used",
-      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -93,17 +117,6 @@
       "model": "XT5",
       "condition": "used",
       "price": 24900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Cadillac XT5 ",
-      "vin": "1GYKNGRS7KZ185678",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/12f135b67493.html",
-      "year": 2019,
-      "make": "Cadillac",
-      "model": "XT5",
-      "condition": "used",
-      "price": 26900.0,
       "price_currency": "CAD"
     },
     {
@@ -185,6 +198,17 @@
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
+      "vin": "W1N0G8EB7NV383572",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/c267d3c748b2.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "used",
+      "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
       "vin": "W1N0G8EB4NV393069",
       "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/1fd98c50e2cc.html",
       "year": 2022,
@@ -192,17 +216,6 @@
       "model": "GLC",
       "condition": "used",
       "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Kelowna",
-      "vin": "W1N0G8EB7NV383572",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/7c8bba6ac28e.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "used",
-      "price": 34900.0,
       "price_currency": "CAD"
     },
     {
@@ -228,17 +241,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco ",
-      "vin": "1FMEE5DP1PLB09227",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/a255eaac07ab.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 58400.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Mercedes-Benz GLS 450 4MATIC SUVin Kelowna",
       "vin": "4JGFF5KE1PA963519",
       "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/fa875bcc99f3.html",
@@ -258,17 +260,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 45200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler 4xe ",
-      "vin": "1C4RJXP60RW116784",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/9b9674008ddc.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
@@ -301,7 +292,7 @@
       "make": "Mercedes-Benz",
       "model": "AMG GLC 43 4MATIC+ SUVin Kelowna",
       "condition": "used",
-      "price": 89995.0,
+      "price": 86600.0,
       "price_currency": "CAD"
     },
     {
@@ -720,17 +711,6 @@
       "model": "Sprinter",
       "condition": "new",
       "price": 74826.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Golf R ",
-      "vin": "WVWKF7CD4TW167669",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/c6589ea46a29.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 53900.0,
       "price_currency": "CAD"
     },
     {

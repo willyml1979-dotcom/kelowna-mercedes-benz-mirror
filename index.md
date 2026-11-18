@@ -1,6 +1,6 @@
 # Kelowna Mercedes-Benz
 
- dealership in Kelowna. AI-readable inventory mirror, about 68 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 67 vehicles.
 
 - Official website: https://www.mercedes-benz-kelowna.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-mercedes-benz-mirror/used/
