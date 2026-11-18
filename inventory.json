@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Mercedes Benz",
-  "generated_at": "2026-11-17T20:31:43",
+  "generated_at": "2026-11-17T20:40:26",
   "vehicle_count": 67,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -336,7 +336,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "new",
-      "price": 66750.0,
+      "price": 59999.0,
       "price_currency": "CAD"
     },
     {
@@ -347,7 +347,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "new",
-      "price": 63750.0,
+      "price": 58999.0,
       "price_currency": "CAD"
     },
     {
@@ -358,7 +358,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "new",
-      "price": 63750.0,
+      "price": 58999.0,
       "price_currency": "CAD"
     },
     {
@@ -666,7 +666,7 @@
       "make": "Mercedes-Benz",
       "model": "Sprinter",
       "condition": "new",
-      "price": 74475.0,
+      "price": 69995.0,
       "price_currency": "CAD"
     },
     {
@@ -699,7 +699,7 @@
       "make": "Mercedes-Benz",
       "model": "Sprinter",
       "condition": "new",
-      "price": 74349.0,
+      "price": 69995.0,
       "price_currency": "CAD"
     },
     {
@@ -710,7 +710,7 @@
       "make": "Mercedes-Benz",
       "model": "Sprinter",
       "condition": "new",
-      "price": 74826.0,
+      "price": 69995.0,
       "price_currency": "CAD"
     },
     {
